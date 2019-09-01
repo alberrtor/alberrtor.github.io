@@ -1,0 +1,43 @@
+table, td {
+    border: 1px solid black;
+    border-collapse: collapse;	
+}
+td {
+    padding: 20px;
+    text-align: center;
+}
+
+.mate {
+    color:rgb(0, 0, 0);
+    background-color: brown;
+}
+
+.biolo {
+    color:rgb(0, 0, 0);
+    background-color: cyan;
+}
+
+.historia_opt {
+    color:rgb(0, 0, 0);
+    background-color: darkgreen;
+}
+
+.historia3 {
+    color:rgb(0, 0, 0);
+    background-color: darkorange;
+}
+
+.ingles {
+    color:rgb(0, 0, 0);
+    background-color: rgb(255, 0, 0);
+}
+
+.musica {
+    color:rgb(0, 0, 0);
+    background-color: darkslategrey;
+}
+
+.quimica {
+    color:rgb(0, 0, 0);
+    background-color: rgb(26, 8, 192);
+}
